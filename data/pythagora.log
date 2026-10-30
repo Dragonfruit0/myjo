@@ -1,0 +1,78 @@
+2026-10-26T19:18:20.711Z INFO Is remote: false
+2026-10-26T19:18:20.713Z INFO Starting Local. Installation path: undefined
+2026-10-26T19:18:20.715Z INFO [MainProvider] Creating new MainProvider instance...
+2026-10-26T19:18:20.717Z INFO [TabsManager] Code view listener set up at initialization
+2026-10-26T19:18:20.718Z INFO Installation path exists: c:\Users\Mahfooz Faiz\Downloads\myjo-portal-app\myjo-portal-app
+2026-10-26T19:18:20.720Z INFO Initializing database with URL: file:C:\Users\MAHFOO~1\AppData\Local\Temp\pythagora-temp\pythagora.db
+2026-10-26T19:18:20.724Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-10-26T19:18:20.726Z INFO Database initialized successfully
+2026-10-26T19:18:20.728Z INFO [Migration] Checking for database migration...
+2026-10-26T19:18:20.849Z INFO [Migration] No migration needed
+2026-10-26T20:09:29.056Z INFO Closing entire Pythagora extension...
+2026-10-26T20:09:29.077Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new mC (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:154622)
+	at r._remoteCall (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:160706)
+	at Proxy.<anonymous> (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:157459)
+	at ph._doExecuteCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:165:48836)
+	at ph.executeCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:165:48283)
+	at Object.executeCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:296:143023)
+	at closeEntirePythagoraExtension (c:\Users\Mahfooz Faiz\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+	at Object.deactivate (c:\Users\Mahfooz Faiz\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+	at tD._deactivate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:14695)
+	at file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12222
+	at Array.map (<anonymous>)
+	at tD._deactivateAll (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12210)
+	at tD.terminate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12561)
+	at r.terminate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1076)
+	at ja (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:11797)
+	at Tm.value (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:9939)
+	at E._deliver (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3644)
+	at E.fire (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3962)
+	at ea.fire (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+	at MessagePortMain.<anonymous> (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:8171)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2934)
+Extra context: {
+  "message": "Canceled"
+}
+2026-10-27T19:56:03.488Z INFO Is remote: false
+2026-10-27T19:56:03.490Z INFO Starting Local. Installation path: undefined
+2026-10-27T19:56:03.492Z INFO [MainProvider] Creating new MainProvider instance...
+2026-10-27T19:56:03.493Z INFO [TabsManager] Code view listener set up at initialization
+2026-10-27T19:56:03.495Z INFO Installation path exists: c:\Users\Mahfooz Faiz\Downloads\myjo-portal-app\myjo-portal-app
+2026-10-27T19:56:03.496Z INFO Initializing database with URL: file:C:\Users\MAHFOO~1\AppData\Local\Temp\pythagora-temp\pythagora.db
+2026-10-27T19:56:03.500Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-10-27T19:56:03.501Z INFO Database initialized successfully
+2026-10-27T19:56:03.503Z INFO [Migration] Checking for database migration...
+2026-10-27T19:56:03.609Z INFO [Migration] No migration needed
+2026-10-27T20:09:04.641Z INFO Closing entire Pythagora extension...
+2026-10-27T20:09:04.655Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new mC (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:154622)
+	at r._remoteCall (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:160706)
+	at Proxy.<anonymous> (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:157459)
+	at ph._doExecuteCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:165:48836)
+	at ph.executeCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:165:48283)
+	at Object.executeCommand (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:296:143023)
+	at closeEntirePythagoraExtension (c:\Users\Mahfooz Faiz\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+	at Object.deactivate (c:\Users\Mahfooz Faiz\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+	at tD._deactivate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:14695)
+	at file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12222
+	at Array.map (<anonymous>)
+	at tD._deactivateAll (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12210)
+	at tD.terminate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12561)
+	at r.terminate (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1076)
+	at ja (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:11797)
+	at Tm.value (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:9939)
+	at E._deliver (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3644)
+	at E.fire (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3962)
+	at ea.fire (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+	at MessagePortMain.<anonymous> (file:///c:/Users/Mahfooz%20Faiz/AppData/Local/Programs/Microsoft%20VS%20Code/e646868227/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:475:8171)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2934)
+Extra context: {
+  "message": "Canceled"
+}
